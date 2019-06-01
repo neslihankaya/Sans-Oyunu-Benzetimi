@@ -1,4 +1,4 @@
 # Sans-Oyunu-Benzetimi
 
-##Sans Oyunları Benzetimi##
+##Sans Oyunları Benzetimi
 
